@@ -40,7 +40,4 @@ Hola, soy **Bryan** 👋 Tengo 16 años y soy estudiante de programación en <a 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-De-Jesus-Mejia&theme=tokyonight&hide_border=true" />
-<<<<<<< HEAD
-</p>
-=======
 </p>
