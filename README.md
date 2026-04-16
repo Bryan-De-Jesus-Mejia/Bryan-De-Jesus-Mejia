@@ -44,4 +44,3 @@ Hola, soy **Bryan** 👋 Tengo 16 años y soy estudiante de programación en <a 
 </p>
 =======
 </p>
->>>>>>> b2c46562a24621b15050688e47f4ed9a685e1d43
