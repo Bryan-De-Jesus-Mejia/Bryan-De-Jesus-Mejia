@@ -28,7 +28,7 @@ Hola, soy **Bryan** 👋 Tengo 16 años y soy estudiante de programación en <a 
 ## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,py,cs,postgres,js,html,css,docker,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,cs,postgres,mysql,js,html,css,bootstrap,docker,git,github,vscode,postman&perline=7" />
 </p>
 
 ## 📊 Estadísticas
