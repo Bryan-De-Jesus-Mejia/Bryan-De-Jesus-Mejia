@@ -29,17 +29,17 @@ Hola, soy **Bryan** 👋 Tengo 16 años y soy estudiante de programación en <a 
 
 ## 🛠️ Tecnologías
 
-### 🔙 Backend
+<h3 align="center">🔙 Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,py,cs,js" />
 </p>
 
-### 🎨 Frontend
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js" />
 </p>
 
-### 🗄️ Bases de Datos
+<h3 align="center">🗄️ Bases de Datos</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   <!-- SQL Server no tiene ícono en skillicons, se puede agregar como badge abajo -->
@@ -49,7 +49,7 @@ Hola, soy **Bryan** 👋 Tengo 16 años y soy estudiante de programación en <a 
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-### ⚙️ DevOps & Herramientas
+<h3 align="center">⚙️ DevOps & Herramientas</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 </p>
