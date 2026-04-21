@@ -1,7 +1,7 @@
 <h1 align="center">Bryan De Jesus Mejia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;16+a%C3%B1os+%7C+ITESA+%7C+Rep%C3%BAblica+Dominicana;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Fullstack+Capable;16+a%C3%B1os+%7C+ITESA+%7C+Rep%C3%BAblica+Dominicana;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,17 +19,42 @@
 
 Hola, soy **Bryan** 👋 Tengo 16 años y soy estudiante de programación en <a href="https://www.itesa.edu.do">**ITESA**</a>.
 
-🎯 Actualmente busco oportunidades para desarrollarme en el mundo de la programación.
+🎯 Actualmente busco oportunidades para seguir creciendo en el mundo del desarrollo de software.
 
-💼 Me especializo en **desarrollo backend** y me apasiona crear soluciones robustas y eficientes.
+💼 Me especializo en **desarrollo backend**, creando soluciones robustas y eficientes, aunque también tengo experiencia en **frontend** y disfruto construir aplicaciones completas de principio a fin.
 
-🚀 Siempre estoy en constante aprendizaje para mejorar mis habilidades.
+🚀 Siempre en constante aprendizaje, explorando nuevas tecnologías y mejores prácticas.
+
+---
 
 ## 🛠️ Tecnologías
 
+### 🔙 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,py,cs,postgres,mysql,js,html,css,bootstrap,docker,git,github,vscode,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,cs,js" />
 </p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js" />
+</p>
+
+### 🗄️ Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <!-- SQL Server no tiene ícono en skillicons, se puede agregar como badge abajo -->
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
+
+### ⚙️ DevOps & Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+</p>
+
+---
 
 ## 📊 Estadísticas
 
@@ -41,6 +66,8 @@ Hola, soy **Bryan** 👋 Tengo 16 años y soy estudiante de programación en <a 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-De-Jesus-Mejia&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ## 🐍 Contribuciones
 
