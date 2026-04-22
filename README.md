@@ -31,7 +31,7 @@ Hola, soy **Bryan** 👋 Tengo 16 años y soy estudiante de programación en <a 
 
 <h3 align="center">🔙 Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,py,cs,js" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,cs,js,cpp" />
 </p>
 
 <h3 align="center">🎨 Frontend</h3>
