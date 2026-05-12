@@ -60,7 +60,7 @@ Hola, soy **Bryan** 👋 Tengo 16 años y soy estudiante de programación en <a 
 
 <p align="center">
   <img src="https://github-stats-six-gamma.vercel.app/api?username=Bryan-De-Jesus-Mejia&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-De-Jesus-Mejia&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes mas usados" />
+  <img height="180" src="https://github-stats-six-gamma.vercel.app/api/top-langs/?username=Bryan-De-Jesus-Mejia&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes mas usados" />
 </p>
 
 <p align="center">
