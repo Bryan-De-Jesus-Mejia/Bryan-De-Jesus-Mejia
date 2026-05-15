@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bryandejesusmejia.vercel.app">🌐 Website</a> •
+  <a target="_blank" href="https://bryandejesusmejia.vercel.app">🌐 Website</a> •
   <a href="https://github.com/Bryan-De-Jesus-Mejia?tab=repositories">📂 Repositorios</a>
 </p>
 
